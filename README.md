@@ -1,4 +1,9 @@
-# hydration_app
+# GROW
+A demo Android application built using Flutter and Firebase encourages users to drink water by allowing them to log in the number of cups that they drink. The number of cups grows virtual plants.
+
+
+WINNER Wolfram Award at Hack@Brown 2022
+
 
 ## Getting Started
 
@@ -48,3 +53,6 @@ Learnt to work together with other programmers, learnt how to connect drawings w
 
 # Hydration
 [Original GitHub File](https://github.com/tuanle277/Hydration)
+
+[Hackathon (Hack@Brown 2022) Final Project Submistion](https://devpost.com/software/grow-egzmov)
+- WINNER Wolfram Award at Hack@Brown 2022
